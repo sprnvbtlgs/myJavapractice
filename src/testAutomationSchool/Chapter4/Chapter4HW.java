@@ -1,4 +1,4 @@
-package testAutomationSchool;
+package testAutomationSchool.Chapter4;
 import java.util.Random;
 
 public class Chapter4HW {

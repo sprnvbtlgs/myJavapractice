@@ -1,4 +1,4 @@
-package testAutomationSchool;
+package testAutomationSchool.Chapter4;
 
 /*
  * DO WHILE LOOP:

@@ -1,4 +1,4 @@
-package testAutomationSchool;
+package testAutomationSchool.Chapter5;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

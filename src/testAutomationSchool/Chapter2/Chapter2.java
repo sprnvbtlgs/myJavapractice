@@ -1,4 +1,4 @@
-package testAutomationSchool;
+package testAutomationSchool.Chapter2;
 
 import java.util.Scanner;
 

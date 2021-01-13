@@ -1,4 +1,4 @@
-package testAutomationSchool;
+package testAutomationSchool.Chapter3;
 
 /*
  * IF ELSE

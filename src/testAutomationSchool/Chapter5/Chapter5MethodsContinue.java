@@ -1,4 +1,4 @@
-package testAutomationSchool;
+package testAutomationSchool.Chapter5;
 
 /*
 * write an "instant credit check" program that approves anyone who makes
